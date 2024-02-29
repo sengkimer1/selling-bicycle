@@ -73,11 +73,11 @@ body{
     }
     .banner-text h1{
         width: 100%;
-        font-size: 45px;
+        font-size: 40px;
     }
     .banner-text p{
         width: 70%;
-        font-size: 28px;
+        font-size: 25px;
     }
     .last-footer { 
         width: 100%;
@@ -93,7 +93,7 @@ body{
    .btn{
     background-color: #F9F9F9;
     color: black;
-    font-size: 30px;
+    font-size: 25px;
     border-radius: 60px;
     width: 250px;
     height: 85px;
