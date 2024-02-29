@@ -149,13 +149,15 @@ body {
       }
       .text1 {
         width: 80%;
-        font-size: 33px;
+        font-size: 25px;
         line-height: 40px;
+        
       }
       .text2 {
         width: 80%;
-        font-size: 33px;
+        font-size: 25px;
         line-height: 40px;
+        margin-top: 15px;
       }
       .header {
         width: 350px;
