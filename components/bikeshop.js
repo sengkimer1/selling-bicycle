@@ -4,27 +4,24 @@ const productlist = [
     type: "Road",
     inform:
       "A type of bicycle specifically designed for road use. They are ideal for long-distance cycling, bike racing, or everyday use on the road.",
-    
-    
+
     img: "components/image/fcfe6ba6c0b17935eeca426d2bd86041.png",
     name: "Roadbike - Polygon",
-    new:"New",
+    new: "New",
     brand: "Strattos S7D",
     discountprice: "$2,000",
     newprice: "$1,450.00",
 
-
     img1: "components/image/f6513c3b4416bb72362dbe0a68c7c996.png",
     name1: "Roadbike - United",
-    new1:"New",
+    new1: "New",
     brand1: "Strattos S7D",
     discountprice1: "$2,000",
     newprice1: "$1,450.00",
 
-
     img2: "components/image/119fa2e39e1bf7b7c5bd6acdd1db858c.png",
     name2: "Roadbike - Twitter",
-    new2:"Used",
+    new2: "Used",
     brand2: "Strattos S7D",
     discountprice2: "$2,000",
     newprice2: "$1,450.00",
@@ -34,26 +31,24 @@ const productlist = [
     type: "Gravel",
     inform:
       "A versatile type of bike designed to tackle a variety of terrains, including asphalt roads, gravel, dirt, and trails. These bikes are ideal for adventure and exploring diverse terrains.",
-    
-    
+
     img: "components/image/f8db6994435e2b5f27ab0a5660ece648.png",
     name: "Gravel - Polygon",
-    new:"",
+    new: "",
     brand: "Tambora G4",
     discountprice: "$1,000",
     newprice: "$650.00",
 
     img1: "components/image/f7e8b9639a23d028d30ef0ea0afd72c0.png",
     name1: "Gravel - Element",
-    new1:"",
+    new1: "",
     brand1: "FRC38",
     discountprice1: "$800",
     newprice1: "$400.00",
-    
 
     img2: "components/image/119fa2e39e1bf7b7c5bd6acdd1db858c.png",
     name2: "Roadbike - Twitter",
-    new2:"",
+    new2: "",
     brand2: "Aurora-Disc",
     discountprice2: "$2,000",
     newprice2: "$1,799.99",
@@ -63,27 +58,24 @@ const productlist = [
     type: "Mountain",
     inform:
       "A type of bike specifically designed for use on rough terrain, such as mountains, dirt tracks, forests, and rocky terrain. They are suitable for outdoor adventures, mountain trails, and exploration on off-road trails.",
-    
-    
-    
+
     img: "components/image/e74d241d03cbc8f0c556931ca353a8ee.png",
     name: "MTB - United",
-    new:"",
+    new: "",
     brand: "Epsilon T6",
     discountprice: "$3,500",
     newprice: "$3,000.00",
 
     img1: "components/image/d2a172549fd82bfe4b4e88dbd5d3080b.png",
     name1: "MTB - Twitter",
-    new1:"",
+    new1: "",
     brand1: "SX-12",
     discountprice1: "$1,300",
     newprice1: "$1,000.00",
-    
 
     img2: "components/image/345ec81186e0a150bd58687ee728e7d6.png",
     name2: "MTB - Pacific",
-    new2:"",
+    new2: "",
     brand2: "Skeleton 3.0",
     discountprice2: "$2,500",
     newprice2: "$2,250.00",
@@ -93,31 +85,27 @@ const productlist = [
     type: "Folding",
     inform:
       "A type of bike that can be folded into a smaller, portable size for easy storage and transportation. Despite their smaller size, most folding bikes can still provide decent performance for daily use in the city.",
-    
-    
-    
+
     img: "components/image/9f9bb1a63cf86fbecb69632baad80209.png",
     name: "Folding Bike - Polygon",
-    new:"",
+    new: "",
     brand: "Urbano 3 2021",
     discountprice: "$350",
     newprice: "$250.00",
 
     img1: "components/image/b9fd31ec3a6ccda768df8210de9ed1b1.png",
     name1: "Folding Bike - Tern",
-    new1:"",
+    new1: "",
     brand1: "Verge X11",
     discountprice1: "$1,800",
     newprice1: "$1,500.00",
-    
 
     img2: "components/image/b4289fd9011d3c36544184814d7eb7c6.png",
     name2: "Folding Bike - Element",
-    new2:"",
+    new2: "",
     brand2: "Vermont 16",
     discountprice2: "$800",
     newprice2: "$750.00",
-
   },
 ];
 let txt = "";
